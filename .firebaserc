@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "weatherapp-99e52": {
+      "hosting": {
+        "weather-app": [
+          "weatherapp-99e52"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "weatherapp-99e52"
+  }
+}
